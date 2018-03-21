@@ -1,4 +1,4 @@
-j# MotG
+# MotG
 
 MotG Launcher Backend Interface allows access to web services and CDN based content from a cross platform application.
 The frontend is programmed in Java while the backend uses native languages.
